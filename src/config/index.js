@@ -1,9 +1,9 @@
 export default{
     images:{
-        heartIcon: require('../../assests/heart_outline.png'),
-        chatIcon: require('../../assests/speech_bubble.png'),
-        arrowIcon:require('../../assests/redo.png'),
-        heartBlackIcon: require('../../assests/heart_black.png')
+        heartIcon: require('../../assets/heart_outline.png'),
+        chatIcon: require('../../assets/speech_bubble.png'),
+        arrowIcon:require('../../assets/redo.png'),
+        heartBlackIcon: require('../../assets/heart_black.png')
     },
 
     styleConstants:{

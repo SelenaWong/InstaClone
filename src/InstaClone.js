@@ -59,8 +59,8 @@ const styles = StyleSheet.create({
         alignItems: "center",
     },
     topNavTxt: {
-        // fontSize:30,
-        // fontStyle:"italic",
+        fontFamily:"billabong",
+        fontSize:30,
     },
 });
 
