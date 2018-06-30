@@ -22,7 +22,7 @@ learn react native tutorial - Instagram clone from [youtube](https://www.youtube
 
  4. [how to custome font](https://medium.com/react-native-training/react-native-custom-fonts-ccc9aacf9e5e)
 
---- about react native
+- - about react native
    1. [Props](https://facebook.github.io/react-native/docs/props)
    2. [State](https://facebook.github.io/react-native/docs/state)
    3. [Image](https://facebook.github.io/react-native/docs/image#docsNav) 
