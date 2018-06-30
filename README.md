@@ -5,12 +5,13 @@ learn react native tutorial - Instagram clone from [youtube](https://www.youtube
 
 - - something you need to know
  1.  [youtube player shortcut key](https://img.gadgethacks.com/img/86/37/63564689550510/0/30-keyboard-shortcuts-you-should-be-using-youtube.w1456.jpg)  
-
-    shortcut | action
-    --|--
-    J|play video go back 10 seconds
-    K|play or pause video
-    L|play video skip forward 10 seconds
+    
+    
+| shortcut  | action |
+| ------------- | ------------- |
+| J | play video go back 10 seconds |
+| K | play or pause video |
+| L | play video skip forward 10 seconds |
 
 
  2. create file by touch command 
